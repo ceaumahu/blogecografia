@@ -7,9 +7,19 @@ body
     margin: 0;
     padding: 0;
 }
+
+#cabecerea
+{
+    background: #33A;
+    color:white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+}
 #container
 {
-        width: 60%;
+        width: 70%;
         padding: 1em;
         text-align: left;
         border: 1px solid #DDD;
